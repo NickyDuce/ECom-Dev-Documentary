@@ -5,7 +5,7 @@ Inquisition to E-commerce Development, from the front-end to the back.
 <em>Here, I am the David attenborough and you are my eager and enthusiastic spectators.</em>
 <br>
 <br>
-<strong> The Definition of 'E-commerce plateforms' that I will be refering to: </strong> The web-application which permites moth merchant(seller) and consumer(customer) to interact with products and services on a digital level. This interaction spans from viewing to purchasing, moderating quantity, authorization, and also includes the management of the merchants customer base (database management).
+<strong> The Definition of 'E-commerce plateforms' that I will be refering to: </strong> The web-application which permites both merchant(seller) and consumer(customer) to interact with products and services on a digital level. This interaction spans from viewing to purchasing, moderating quantity, authorization, and also includes the management of the merchants customer base (database management).
 
 <br>
 <br>
@@ -18,11 +18,11 @@ Follow along in this journey and dont be shy to provide your own oppinion, "_all
 <h2> What we are investigating </h2>
   
  <p> How this will work is every week I will upload a detailed article on what I found interesting inside one of the following focuses bellow
-  <li> Frameworks
+  <li> Front and backend javscript Frameworks (for now i am really only looking at JS)
   <li> Programming paradigms 
   <li> Web design
   <li> Landing pages
-  <li> Landing pages 
+  <li> How a consumers data is used
 
   
 The structure of each article will be broken up into three sections: 
