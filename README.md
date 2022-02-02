@@ -23,5 +23,5 @@ Follow along in this journey and dont be shy to provide your own oppinion, "_all
   
 The structure of each article will be broken up into three sections: 
 <li> <strong> (1) The Why </strong> -- an outline of why I chose to write about that particular concept
-<li> <strong>(2) through the documentation </strong>and into your hands -- how the particular concept is meant to be used, including examples and code theory
+<li> <strong>(2) through the documentation </strong>and into your hands -- how that particular concept is meant to be used, including examples and code theory
 <li> <strong>(3) Application </strong>-- A mini project using that particular concept
