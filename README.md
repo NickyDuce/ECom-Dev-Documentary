@@ -11,10 +11,17 @@ In addition, we will be analysing some amazing features within the renowned fram
 Follow along in this journey and dont be shy to provide your own oppinion, "_all i really know is that I know nothing."
 
 
-<h2> What we are investigating <h2>
+<h2> What we are investigating </h2>
   
-  <ul>
-    <li> ... <li>
-    <li> ... <li>
-    <li> ... <li>
-  </ul>
+ <p> How this will work is every week I will upload a detailed article on what I found interesting inside one of the following focuses bellow
+  <li> Frameworks
+  <li> Programming paradigms 
+  <li> Web design
+  <li> Landing pages
+  <li> Landing pages 
+
+  
+The structure of each article will be broken up into three sections: 
+<li> <strong> (1) The Why </strong> -- an outline of why I chose to write about that particular concept
+<li> <strong>(2) through the documentation </strong>and into your hands -- how the particular concept is meant to be used, including examples and code theory
+<li> <strong>(3) Application </strong>-- A mini project using that particular concept
